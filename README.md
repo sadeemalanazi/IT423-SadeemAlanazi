@@ -6,7 +6,55 @@ I am a senior Information Technology student at Marymount University with a mino
 ## Projects
 
 ### Cisco Network Design
-Designed and configured a network using routers, switches, and IP addressing in Cisco Packet Tracer.
+## Overview
+
+I designed and configured a network using Cisco Packet Tracer. The network included routers, switches, and client devices connected across multiple segments.
+
+---
+
+## Configuration
+
+- Assigned IP addresses to each device  
+- Configured subnet masks and default gateways  
+- Connected devices using appropriate network topology  
+
+---
+
+## Testing
+
+To verify connectivity, I used:
+
+- ping command to test communication between devices  
+- ipconfig to check IP configuration  
+
+---
+
+## Troubleshooting
+
+When devices were unable to communicate, I:
+
+- Checked IP address accuracy  
+- Verified subnet alignment  
+- Confirmed correct gateway configuration  
+
+---
+
+## Key Learning
+
+This project helped me understand how networks operate and how misconfigurations can prevent communication between devices. In real-world environments, incorrect IP addressing or subnetting can lead to downtime or connectivity issues.
+
+Through this project, I developed structured troubleshooting skills by identifying and resolving network configuration errors. This experience is directly applicable to real-world IT roles, where diagnosing and resolving network issues is a critical responsibility.
+
+---
+
+## Tools Used
+
+- Cisco Packet Tracer  
+- TCP/IP Networking  
+
+
+
+
 
 ### AWS Security Lab
 Configured IAM, S3, EC2, and monitoring tools to create a secure cloud environment.
