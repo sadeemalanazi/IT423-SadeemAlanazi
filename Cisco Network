@@ -1,6 +1,27 @@
- Network Design
-	I used Cisco Packet Tracer to create and set up a network for the project. Several devices, including switches, routers, and client computers, were connected on the network. I set up IP addressing, subnet masks, and default gateways. I also used commands like ping to test connectivity 
+# Cisco Network Design Project
+--
+##
+In this project, I designed and configured a network using Cisco Packet Tracer. The network included routers, switches, and client devices connected across multiple segments.
 
-Tools Used:
-Cisco Packet Tracer
-TCP/IP networking
+## Configuration
+- Assigned IP addresses to each device
+- Configured subnet masks and default gateways
+- Connected devices using appropriate network topology
+
+## Testing
+To verify connectivity, I used:
+- ping command to test communication between devices
+- ipconfig to check IP configuration
+
+## Troubleshooting
+When devices were unable to communicate, I:
+- Checked IP address accuracy
+- Verified subnet alignment
+- Confirmed correct gateway configuration
+
+## Key Learning
+This project helped me understand how networks operate and how misconfigurations can prevent communication. I also learned structured troubleshooting methods, which are important in real-world IT environments.
+
+## Tools Used
+- Cisco Packet Tracer
+- TCP/IP Networking
