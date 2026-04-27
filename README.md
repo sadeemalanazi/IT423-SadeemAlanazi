@@ -81,17 +81,9 @@ To verify the setup, I used:
 
 ---
 
-## Challenges
-
-One of the main challenges was ensuring proper network configuration within the virtual environment. Incorrect settings, such as IP address or gateway, prevented communication between systems.
-
----
-
 ## Key Learning
 
 This project helped me understand how servers are installed and configured in a virtual environment. I learned how important correct network settings are for system communication.
-
-In real-world IT environments, system administrators must ensure proper configuration to avoid connectivity issues and maintain reliable systems.
 
 ---
 
@@ -102,7 +94,7 @@ In real-world IT environments, system administrators must ensure proper configur
 
 
 ### MovieMatch Website
-I developed a web application called MovieMatch using HTML and CSS. The purpose of the website is to allow users to explore movie recommendations through a simple and user-friendly interface.
+I developed a web application called MovieMatch using HTML and CSS. The purpose of the website is to enable users to explore movie recommendations through a simple, user-friendly interface.
 
 ---
 
@@ -120,12 +112,6 @@ I structured the website using HTML and applied styling with CSS to create a vis
 
 ---
 
-## Challenges
-
-One of the challenges in this project was organizing the layout in a way that made the website easy to navigate. I addressed this by dividing the page into clear sections and applying consistent styling across all elements.
-
----
-
 ## Key Learning
 
 This project helped me understand the importance of user interface design and how layout and structure affect usability. In real-world applications, a well-designed interface improves user experience and engagement.
@@ -135,21 +121,9 @@ This project helped me understand the importance of user interface design and ho
 ## Tools Used
 
 - HTML  
-- CSS  
+- CSS
 
-
-
-
-
-### Windows Server 2019
-Installed and configured Windows Server and networking in a virtual environment.
-
-## Technical Skills
-- Windows Server
-- Linux
-- AWS
-- Networking
-- GitHub
+---
 
 ## Links
 GitHub: https://github.com/sadeemalanazi  
